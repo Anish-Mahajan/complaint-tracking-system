@@ -1,6 +1,6 @@
 # 🛠️ Complaint Tracking System
 
-A simple full-stack web application to help users report and track civic issues such as potholes, garbage problems, or broken streetlights. Admins can manage complaints and update their status.
+Built a full-stack platform for reporting local area issues, enabling users to submit image-supported complaints, upvote and filter issues, with separate admin and user interfaces for managing complaint statuses and user roles.
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@ A simple full-stack web application to help users report and track civic issues 
 ## 🧱 Tech Stack
 
 - **Frontend**: React.js, Bootstrap, Axios
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js , Multer
 - **Database**: MongoDB
 - **Authentication**: JWT
 

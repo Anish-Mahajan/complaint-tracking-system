@@ -17,7 +17,7 @@ Built a full-stack platform for reporting local area issues, enabling users to s
 ## 🧱 Tech Stack
 
 - **Frontend**: React.js, Bootstrap, Axios
-- **Backend**: Node.js, Express.js , Multer
+- **Backend**: Node.js, Express.js, Multer
 - **Database**: MongoDB
 - **Authentication**: JWT
 
